@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d /Users/jackhancock/Desktop/Coding/GroupmeBot/api.json https://api.groupme.com/v3/direct_messages?token=9c55aaa0ae9f013874c25a03d60c64c7
