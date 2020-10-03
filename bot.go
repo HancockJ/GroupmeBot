@@ -7,5 +7,5 @@ import(
 func main() {
     fmt.Println(math.Sqrt(16))      // ;
     fmt.Println("Hello Jon Crosse!")
-    fmt.Println("Faggot!")
+    fmt.Println("You weirdo!")
 }
