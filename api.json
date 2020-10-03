@@ -2,5 +2,13 @@
   "direct_message": {
     "source_guid": "$now()",
     "recipient_id": "16328286",
-    "text": "This is about to hit your groupme Direct message ! YEEE"
-  }}
+    "text": "Incoming",
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://i.groupme.com/748x750.jpeg.3e249a7931de4d079c746ef80d2fc3d0"
+      }
+    ]
+  }
+}
+
