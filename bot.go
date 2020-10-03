@@ -10,4 +10,5 @@ func main() {
 	fmt.Println(math.Sqrt(49)) // ;
 	fmt.Println("Hello Jack Hancock!")
 	fmt.Println("Work please")
+	fmt.Println("No I love beers!!!")
 }
