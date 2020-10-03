@@ -7,6 +7,6 @@ import (
 
 // ;
 func main() {
-	fmt.Println(math.Sqrt(16)) // ;
+	fmt.Println(math.Sqrt(49)) // ;
 	fmt.Println("Hello Jack Hancock!")
 }
