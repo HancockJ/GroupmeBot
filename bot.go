@@ -1,11 +1,14 @@
 package main
-import(
-    "fmt"                           // ;
-    "math"                          // ;
+
+import (
+	"fmt"  // ;
+	"math" // ;
 )
-                               // ;
+
+// ;
 func main() {
-    fmt.Println(math.Sqrt(16))      // ;
-    fmt.Println("Hello Jon Crosse!")
-    fmt.Println("You weirdo!")
+	fmt.Println(math.Sqrt(16)) // ;
+	fmt.Println("Hello Jon Crosse!")
+	fmt.Println("You weirdo!")
+	fmt.Println("No you are")
 }
